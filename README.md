@@ -1,3 +1,4 @@
+#This is the second of 25 small basic HTML projects
 Description
 Build a clean, static resume using just HTML. This project introduces semantic HTML elements like <section>, <header>, and <footer> to organize content logically.
 
